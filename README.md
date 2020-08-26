@@ -6,8 +6,9 @@ React Desafio D1
 Rodando o projeto
 Baixe o repositório, acesse a pasta modulo-3/pratico e rode os comandos:
 
-#para baixar as dependencias
+#Para baixar as dependencias
 yarn
-#para iniciar o projeto
+
+#Para iniciar o projeto
 yarn start
 Acesse o endereço http://localhost:3000
