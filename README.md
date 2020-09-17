@@ -3,8 +3,7 @@ React Desafio D1
 - Este projeto foi feito a partir das especificações do desafio do processo seletivo da D1, o projeto foi feito de forma estática, com uma tela de 1920x1080
 
 
-Rodando o projeto
-Baixe o repositório, acesse a pasta modulo-3/pratico e rode os comandos:
+Rodando o projeto:
 
 #Para baixar as dependencias:
 yarn
